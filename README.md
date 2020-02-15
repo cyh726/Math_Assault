@@ -6,38 +6,51 @@
 ## Menu Scene
 ### Main Canvas
 <img src="https://i.imgur.com/tbgzFi0.png" width="250" height="150">
+
 ### Level Canvas
 <img src="https://i.imgur.com/yndNfvI.png" width="250" height="150">
+
 ### View Canvas
 <img src="https://i.imgur.com/yKo5nhR.png" width="250" height="150">
+
 * First Person View
 <img src="https://i.imgur.com/AVI0O4z.png" width="250" height="150">
+
 * Third Person View
 <img src="https://i.imgur.com/0vhKk3T.png" width="250" height="150">
 
 ## Game Scene
 ### Shooting Canvas
 <img src="https://i.imgur.com/SUVk7tA.png" width="250" height="150">
+
 ### Question Canvas
 <img src="https://i.imgur.com/nd21PhQ.png" width="250" height="150">
+
 ### Game Over Canvas
 <img src="https://i.imgur.com/HreNhcN.png" width="250" height="150">
 
 ## Contents
 ### Role
 <img src="https://i.imgur.com/PiM1CLx.png" width="250" height="150">
+
 ### Enemy
 <img src="https://i.imgur.com/ttvPWG2.png" width="250" height="150">
+
 ### Random Map
 <img src="https://i.imgur.com/CxgpP6j.png" width="250" height="150">
+
 ### Bullet Shooting
 <img src="https://i.imgur.com/uY5kZlO.png" width="250" height="150">
+
 ### Skill 1: Special Shooting
 <img src="https://i.imgur.com/HU1OfjB.png" width="250" height="150">
+
 ### Skill 2: Special Shooting
 <img src="https://i.imgur.com/aolCakF.png" width="250" height="150">
+
 ### Enemy Shooting
 <img src="https://i.imgur.com/B8XkV5r.png" width="250" height="150">
+
 ### Skill Enhancement Items
 <img src="https://i.imgur.com/pC4ebtS.png" width="250" height="150">
 
